@@ -1,0 +1,16 @@
+{
+ "version": "2026.11.4",
+ "erstellt": "2026-11-12",
+ "hinweise": "Umzugsservicevonlocalaufserver",
+ "nur_update": true,
+ "veroeffentlicht": "2026-11-12T12:47:09",
+ "dateien": {
+  "update": {
+   "datei": "Cockpit-Update-2026.11.4.zip.enc",
+   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.4/Cockpit-Update-2026.11.4.zip.enc",
+   "sha256": "4a118f223cbfacdfc2879c2fd5e53d54a0974190be1e61d11757ee0f50ea99fe",
+   "bytes": 1085280,
+   "verschluesselt": true
+  }
+ }
+}

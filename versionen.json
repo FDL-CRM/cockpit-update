@@ -4,5 +4,11 @@
   "erstellt": "2026-11-12",
   "hinweise": "Online-Updates über die Update-Quelle",
   "nur_update": false
+ },
+ {
+  "version": "2026.11.4",
+  "erstellt": "2026-11-12",
+  "hinweise": "Umzugsservicevonlocalaufserver",
+  "nur_update": true
  }
 ]
