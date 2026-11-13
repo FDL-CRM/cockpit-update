@@ -1,15 +1,15 @@
 {
- "version": "2026.11.14",
- "erstellt": "2026-11-12",
- "hinweise": "Update-Github",
+ "version": "2026.11.15",
+ "erstellt": "2026-11-13",
+ "hinweise": "Updatefuntkion Github",
  "nur_update": false,
- "veroeffentlicht": "2026-11-12T13:19:55",
+ "veroeffentlicht": "2026-11-13T10:42:29",
  "dateien": {
   "update": {
-   "datei": "Cockpit-Update-2026.11.14.zip.enc",
-   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.14/Cockpit-Update-2026.11.14.zip.enc",
-   "sha256": "31d1be9a6d82b77fc79305e4d6871b3c4318e85ca817583d8b60c0dedbf60ee3",
-   "bytes": 1085264,
+   "datei": "Cockpit-Update-2026.11.15.zip.enc",
+   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.15/Cockpit-Update-2026.11.15.zip.enc",
+   "sha256": "76a84653471a397ad70bf79390dcf29e557e3f3807b358190e3791129b82683a",
+   "bytes": 1086736,
    "verschluesselt": true
   }
  }
