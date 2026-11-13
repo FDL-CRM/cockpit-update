@@ -4,5 +4,11 @@
   "erstellt": "2026-11-13",
   "hinweise": "Updatefuntkion Github",
   "nur_update": false
+ },
+ {
+  "version": "2026.11.5",
+  "erstellt": "2026-11-13",
+  "hinweise": "Irgendwas",
+  "nur_update": true
  }
 ]
