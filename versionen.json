@@ -1,5 +1,11 @@
 [
  {
+  "version": "2026.11.16",
+  "erstellt": "2026-11-13",
+  "hinweise": "kleinereUpdates",
+  "nur_update": true
+ },
+ {
   "version": "2026.11.15",
   "erstellt": "2026-11-13",
   "hinweise": "Updatefuntkion Github",

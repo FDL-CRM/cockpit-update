@@ -1,0 +1,16 @@
+{
+ "version": "2026.11.16",
+ "erstellt": "2026-11-13",
+ "hinweise": "kleinereUpdates",
+ "nur_update": true,
+ "veroeffentlicht": "2026-11-13T15:00:29",
+ "dateien": {
+  "update": {
+   "datei": "Cockpit-Update-2026.11.16.zip.enc",
+   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.16/Cockpit-Update-2026.11.16.zip.enc",
+   "sha256": "63ffff12eb710d669629d6985109059eafe92599c3e0c3d82c0cbe1b9d9c1a8d",
+   "bytes": 1086720,
+   "verschluesselt": true
+  }
+ }
+}
