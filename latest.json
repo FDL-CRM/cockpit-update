@@ -1,15 +1,15 @@
 {
- "version": "2026.11.17",
+ "version": "2026.11.18",
  "erstellt": "2026-11-16",
- "hinweise": "Passwort vergessen: neues Passwort ueber einen Link per Mail, bestaetigt",
+ "hinweise": "Passwort vergessen bei der Anmeldung (Mail-Link und Bestätigungscode) · Umzugspaket über eine Adresse einspielen, auch bei sehr großen Dateien · Zugriff im Büro-Netz: Hostnamen jetzt pflegbar, Erreichbarkeit sichtbar · drei Fehler auf schreibgeschützten Systemen behoben (Belege, Eingang, Ablage) · Kundenstatus „verstorben\" mit einem Jahr für die Abwicklung · Seite lädt deutlich schneller, die Daten sind von 16,6 auf 1,3 MB geschrumpft · Ladehinweis statt leerer Seite · bestehendes Legitimationsdokument in den Tresor hochladbar · Entfernung und geschätzte Fahrzeit in der Kundenakte · klare Meldung, wenn der Server nicht antwortet",
  "nur_update": false,
- "veroeffentlicht": "2026-11-16T12:04:43",
+ "veroeffentlicht": "2026-11-16T16:13:56",
  "dateien": {
   "update": {
-   "datei": "Cockpit-Update-2026.11.17.zip.enc",
-   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.17/Cockpit-Update-2026.11.17.zip.enc",
-   "sha256": "11177282afaec8172b06c578d9a1cce0735f56f0cd392368f7c55af85e1bb473",
-   "bytes": 1098368,
+   "datei": "Cockpit-Update-2026.11.18.zip.enc",
+   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.18/Cockpit-Update-2026.11.18.zip.enc",
+   "sha256": "580388f6b3b00023256187f99a2f25defadf13c0a032a36094a9ff745f6b849a",
+   "bytes": 1105888,
    "verschluesselt": true
   }
  }

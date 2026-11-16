@@ -1,5 +1,11 @@
 [
  {
+  "version": "2026.11.18",
+  "erstellt": "2026-11-16",
+  "hinweise": "Passwort vergessen bei der Anmeldung (Mail-Link und Bestätigungscode) · Umzugspaket über eine Adresse einspielen, auch bei sehr großen Dateien · Zugriff im Büro-Netz: Hostnamen jetzt pflegbar, Erreichbarkeit sichtbar · drei Fehler auf schreibgeschützten Systemen behoben (Belege, Eingang, Ablage) · Kundenstatus „verstorben\" mit einem Jahr für die Abwicklung · Seite lädt deutlich schneller, die Daten sind von 16,6 auf 1,3 MB geschrumpft · Ladehinweis statt leerer Seite · bestehendes Legitimationsdokument in den Tresor hochladbar · Entfernung und geschätzte Fahrzeit in der Kundenakte · klare Meldung, wenn der Server nicht antwortet",
+  "nur_update": false
+ },
+ {
   "version": "2026.11.17",
   "erstellt": "2026-11-16",
   "hinweise": "Passwort vergessen: neues Passwort ueber einen Link per Mail, bestaetigt",
