@@ -1,0 +1,16 @@
+{
+ "version": "2026.11.17",
+ "erstellt": "2026-11-16",
+ "hinweise": "Passwort vergessen: neues Passwort ueber einen Link per Mail, bestaetigt",
+ "nur_update": false,
+ "veroeffentlicht": "2026-11-16T12:04:43",
+ "dateien": {
+  "update": {
+   "datei": "Cockpit-Update-2026.11.17.zip.enc",
+   "url": "https://raw.githubusercontent.com/FDL-CRM/cockpit-update/main/pakete/2026.11.17/Cockpit-Update-2026.11.17.zip.enc",
+   "sha256": "11177282afaec8172b06c578d9a1cce0735f56f0cd392368f7c55af85e1bb473",
+   "bytes": 1098368,
+   "verschluesselt": true
+  }
+ }
+}

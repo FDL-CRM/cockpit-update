@@ -1,5 +1,11 @@
 [
  {
+  "version": "2026.11.17",
+  "erstellt": "2026-11-16",
+  "hinweise": "Passwort vergessen: neues Passwort ueber einen Link per Mail, bestaetigt",
+  "nur_update": false
+ },
+ {
   "version": "2026.11.16",
   "erstellt": "2026-11-13",
   "hinweise": "kleinereUpdates",
@@ -10,5 +16,5 @@
   "erstellt": "2026-11-13",
   "hinweise": "Updatefuntkion Github",
   "nur_update": false
-  }
+ }
 ]
